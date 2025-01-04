@@ -1,11 +1,4 @@
-![A preview of my revamped blogfolio](https://nextjs-notion-blog-starter.vercel.app/preview/1.jpg)
 
-# Nextjs Notion Blog Starter
-
-- [Default demo](https://nextjs-notion-blog-starter.vercel.app/) - Deployed from `main` branch
-- [Blog setup](https://nextjs-notion-blog-starter.vercel.app/blog/deploy-your-notion-blog-powered-by-nextjs-and-tailwind) - I wrote an article on how to use this starter to start your blog
-
-## ✨ Features
 
 - ✅ Setup takes only a few minutes ([single file config](https://github.com/tuanphungcz/nextjs-notion-blog-starter/blob/main/data/siteData.ts)) 💪
 - ✅ Newsletter subscription via [Convertkit API](https://github.com/tuanphungcz/nextjs-notion-blog-starter/blob/main/pages/api/subscribe-convertkit.tsx)
