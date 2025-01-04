@@ -1,18 +1,4 @@
 
-- `public/*` - Static assets including images, fonts, and videos.
-- `styles/*` - global styles and Tailwind.
-- `siteData.ts` - a simple file containing global data about the site.
-
-## 🏃‍♂️ Running Locally
-
-```bash
-git clone https://github.com/tuanphungcz/nextjs-notion-blog-starter
-cd nextjs-notion-blog-starter
-pnpm install
-pnpm run dev
-```
-
-Create a `.env` file similar to `.env.example` and include the appropriate keys.
 
 ## 🚀 Deploy to vercel
 
